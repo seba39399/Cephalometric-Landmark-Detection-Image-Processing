@@ -3,7 +3,9 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Supervised-green)](https://scikit-learn.org/)
 
-Automatic detection of **nasal** and **soft pogonion** points in cephalometric images and visualization of the **Ricketts aesthetic line** using image processing and optimization techniques in Python.
+This project provides an automated pipeline for detecting key anatomical landmarks—specifically the nasal point (P) and the soft pogonion (Pog’)—in lateral cephalometric radiographs. Using advanced image processing techniques combined with optimization algorithms implemented in Python, the system accurately identifies these critical points and visualizes the Ricketts aesthetic line, a key reference in orthodontic diagnosis and treatment planning. 
+
+By automating the detection and visualization of landmarks, this project aims to streamline orthodontic assessments, minimize human error, and provide a foundation for developing more sophisticated cephalometric analysis tools.
 
 ---
 
